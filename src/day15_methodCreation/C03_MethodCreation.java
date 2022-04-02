@@ -1,9 +1,9 @@
-package day_15methodCreation;
+package day15_methodCreation;
 
 import java.util.Scanner;
 
-import static day_15methodCreation.C04.dortHarfiTersineCevir;
-import static day_15methodCreation.C04.ucHarfiTersineCevir;
+import static day15_methodCreation.C04.dortHarfiTersineCevir;
+import static day15_methodCreation.C04.ucHarfiTersineCevir;
 
 public class C03_MethodCreation {
     public static void main(String[] args) {
