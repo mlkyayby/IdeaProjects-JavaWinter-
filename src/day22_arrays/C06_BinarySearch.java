@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class C06_BinarySearch {
     public static void main(String[] args) {
         int arr[]={3,5,6,9,45,25,4,9,0};
-        int istenenSayi=-10;
+        int istenenSayi=0;
 
         // Eger Javadan hazir BinarySearch ile yapmak isterseniz
         //once sort methodunu kullanip, sonra BinarySearch yapmaliyiz

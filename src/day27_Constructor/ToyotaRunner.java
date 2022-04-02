@@ -19,5 +19,12 @@ public class ToyotaRunner {
         t2.yil=2021;
         System.out.println("T2 model: " +t2.model+ ", yakit : " + t2.yakit + ", yil : " + t2.yil);
 
+        Toyota t3=new Toyota();
+        System.out.println(t3.marka);
+        System.out.println(t3.tekerAdedi);
+        t3.model="reno";
+        t3.yakit="benzin";
+        t3.yil=2020;
+        System.out.println("T3.model: "+ t3.model + " t3.yakit: "+  t3.yakit + " t3.yil:"+ t3.yil);
     }
 }

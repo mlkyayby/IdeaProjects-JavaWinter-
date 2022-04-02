@@ -19,6 +19,7 @@ public class C06_ArraydanListOlusturma {
         arraydenList.set(0,"Y");
         System.out.println("28.satirda Array : " + Arrays.toString(arr));
         System.out.println("29.satirda list :" + arraydenList);
-
+        arr[2]="Z";
+        System.out.println(Arrays.toString(arr));
     }
 }

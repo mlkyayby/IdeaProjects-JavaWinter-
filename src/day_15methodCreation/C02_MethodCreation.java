@@ -1,4 +1,4 @@
-package day_15mezhodCreation;
+package day_15methodCreation;
 
 import java.util.Scanner;
 

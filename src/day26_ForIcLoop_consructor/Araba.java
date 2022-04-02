@@ -3,12 +3,10 @@ package day26_ForIcLoop_consructor;
 public class Araba {
 
     /* Javada her class olusturdugumuzda
-            Java o class dan ileride objeler uretmek gerekecegini bilir
-            ve biz ozellikle belirtmesekte java her olusturdugu class a bir constructor koyar
+    ve biz ozellikle belirtmesekte java her olusturdugu class a bir constructor koyar
+  Java nin class olustururken class a koydugu contructor a DEFAULT CONTSRUCTOR denir ve bu constructor gorunmez
 
-            Java nin class olustururken class a koydugu contructor a DEFAULT CONTSRUCTOR denir ve bu constructor gorunmez
-
-            Eger biz gorunur bir constructor imiz olsun istersek default constructor ile ayni gorevi yapan bir consructor olusturabilririz
+  Eger biz gorunur bir constructor imiz olsun istersek default constructor ile ayni gorevi yapan bir consructor olusturabilririz
             veya istersek ayni kaliptan farkli desenlerde objeler olusturmak icin
             farkli ozelliklerde constructorlar da olusturabiliriz
 
