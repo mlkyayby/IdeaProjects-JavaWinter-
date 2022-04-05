@@ -1,4 +1,4 @@
-package day3_Scanner;
+package day03_Scanner;
 
 public class C03_SwapVariablesTempOlmadan {
     public static void main(String[] args) {
