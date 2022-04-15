@@ -19,7 +19,7 @@ public class C01_Arrays {
 
         //kullanmadan once mutlaka deger atamasi yapmamiz gerekir
         // hem declare edip hemde atama yapacaksam nasil yapabilirim
-        //1 declare esitligin sagin a suslu parantez ivcine degerleri yazabilirim
+        //1 declare esitligin sagin a suslu parantez icine degerleri yazabilirim
 
         String arr7[]={"Ali","Veli","Ayse"};
 
